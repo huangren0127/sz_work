@@ -1,8 +1,14 @@
 
+<<<<<<< HEAD
 
 
 
 change Makefile in dev branch
+=======
+the second change for Kconfig in ren branch
+
+change in ren branch
+>>>>>>> ren
 
 CONFIG elan_ts_driver
 	trans
