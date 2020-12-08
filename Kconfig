@@ -1,2 +1,7 @@
+
+the second change for Kconfig in ren branch
+
+change in ren branch
+
 CONFIG elan_ts_driver
 	trans
